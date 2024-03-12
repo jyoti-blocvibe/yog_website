@@ -1,0 +1,234 @@
+@font-face {
+    font-family: 'Anybody';
+    src: url('Anybody-SemiBold.eot');
+    src: url('Anybody-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('Anybody-SemiBold.woff2') format('woff2'),
+        url('Anybody-SemiBold.woff') format('woff'),
+        url('Anybody-SemiBold.ttf') format('truetype'),
+        url('Anybody-SemiBold.svg#Anybody-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Anybody';
+    src: url('Anybody-Regular.eot');
+    src: url('Anybody-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Anybody-Regular.woff2') format('woff2'),
+        url('Anybody-Regular.woff') format('woff'),
+        url('Anybody-Regular.ttf') format('truetype'),
+        url('Anybody-Regular.svg#Anybody-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Anybody';
+    src: url('Anybody-MediumItalic.eot');
+    src: url('Anybody-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('Anybody-MediumItalic.woff2') format('woff2'),
+        url('Anybody-MediumItalic.woff') format('woff'),
+        url('Anybody-MediumItalic.ttf') format('truetype'),
+        url('Anybody-MediumItalic.svg#Anybody-MediumItalic') format('svg');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Anybody';
+    src: url('Anybody-SemiBoldItalic.eot');
+    src: url('Anybody-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('Anybody-SemiBoldItalic.woff2') format('woff2'),
+        url('Anybody-SemiBoldItalic.woff') format('woff'),
+        url('Anybody-SemiBoldItalic.ttf') format('truetype'),
+        url('Anybody-SemiBoldItalic.svg#Anybody-SemiBoldItalic') format('svg');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Anybody';
+    src: url('Anybody-Thin.eot');
+    src: url('Anybody-Thin.eot?#iefix') format('embedded-opentype'),
+        url('Anybody-Thin.woff2') format('woff2'),
+        url('Anybody-Thin.woff') format('woff'),
+        url('Anybody-Thin.ttf') format('truetype'),
+        url('Anybody-Thin.svg#Anybody-Thin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Anybody';
+    src: url('Anybody-Black.eot');
+    src: url('Anybody-Black.eot?#iefix') format('embedded-opentype'),
+        url('Anybody-Black.woff2') format('woff2'),
+        url('Anybody-Black.woff') format('woff'),
+        url('Anybody-Black.ttf') format('truetype'),
+        url('Anybody-Black.svg#Anybody-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Anybody';
+    src: url('Anybody-BlackItalic.eot');
+    src: url('Anybody-BlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('Anybody-BlackItalic.woff2') format('woff2'),
+        url('Anybody-BlackItalic.woff') format('woff'),
+        url('Anybody-BlackItalic.ttf') format('truetype'),
+        url('Anybody-BlackItalic.svg#Anybody-BlackItalic') format('svg');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Anybody';
+    src: url('Anybody-ThinItalic.eot');
+    src: url('Anybody-ThinItalic.eot?#iefix') format('embedded-opentype'),
+        url('Anybody-ThinItalic.woff2') format('woff2'),
+        url('Anybody-ThinItalic.woff') format('woff'),
+        url('Anybody-ThinItalic.ttf') format('truetype'),
+        url('Anybody-ThinItalic.svg#Anybody-ThinItalic') format('svg');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Anybody';
+    src: url('Anybody-Bold.eot');
+    src: url('Anybody-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Anybody-Bold.woff2') format('woff2'),
+        url('Anybody-Bold.woff') format('woff'),
+        url('Anybody-Bold.ttf') format('truetype'),
+        url('Anybody-Bold.svg#Anybody-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Anybody';
+    src: url('Anybody-BoldItalic.eot');
+    src: url('Anybody-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('Anybody-BoldItalic.woff2') format('woff2'),
+        url('Anybody-BoldItalic.woff') format('woff'),
+        url('Anybody-BoldItalic.ttf') format('truetype'),
+        url('Anybody-BoldItalic.svg#Anybody-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Anybody';
+    src: url('Anybody-ExtraLight.eot');
+    src: url('Anybody-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('Anybody-ExtraLight.woff2') format('woff2'),
+        url('Anybody-ExtraLight.woff') format('woff'),
+        url('Anybody-ExtraLight.ttf') format('truetype'),
+        url('Anybody-ExtraLight.svg#Anybody-ExtraLight') format('svg');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Anybody';
+    src: url('Anybody-ExtraBold.eot');
+    src: url('Anybody-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('Anybody-ExtraBold.woff2') format('woff2'),
+        url('Anybody-ExtraBold.woff') format('woff'),
+        url('Anybody-ExtraBold.ttf') format('truetype'),
+        url('Anybody-ExtraBold.svg#Anybody-ExtraBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Anybody';
+    src: url('Anybody-ExtraBoldItalic.eot');
+    src: url('Anybody-ExtraBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('Anybody-ExtraBoldItalic.woff2') format('woff2'),
+        url('Anybody-ExtraBoldItalic.woff') format('woff'),
+        url('Anybody-ExtraBoldItalic.ttf') format('truetype'),
+        url('Anybody-ExtraBoldItalic.svg#Anybody-ExtraBoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Anybody';
+    src: url('Anybody-ExtraLightItalic.eot');
+    src: url('Anybody-ExtraLightItalic.eot?#iefix') format('embedded-opentype'),
+        url('Anybody-ExtraLightItalic.woff2') format('woff2'),
+        url('Anybody-ExtraLightItalic.woff') format('woff'),
+        url('Anybody-ExtraLightItalic.ttf') format('truetype'),
+        url('Anybody-ExtraLightItalic.svg#Anybody-ExtraLightItalic') format('svg');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Anybody';
+    src: url('Anybody-Light.eot');
+    src: url('Anybody-Light.eot?#iefix') format('embedded-opentype'),
+        url('Anybody-Light.woff2') format('woff2'),
+        url('Anybody-Light.woff') format('woff'),
+        url('Anybody-Light.ttf') format('truetype'),
+        url('Anybody-Light.svg#Anybody-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Anybody';
+    src: url('Anybody-LightItalic.eot');
+    src: url('Anybody-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('Anybody-LightItalic.woff2') format('woff2'),
+        url('Anybody-LightItalic.woff') format('woff'),
+        url('Anybody-LightItalic.ttf') format('truetype'),
+        url('Anybody-LightItalic.svg#Anybody-LightItalic') format('svg');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Anybody';
+    src: url('Anybody-Italic.eot');
+    src: url('Anybody-Italic.eot?#iefix') format('embedded-opentype'),
+        url('Anybody-Italic.woff2') format('woff2'),
+        url('Anybody-Italic.woff') format('woff'),
+        url('Anybody-Italic.ttf') format('truetype'),
+        url('Anybody-Italic.svg#Anybody-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Anybody';
+    src: url('Anybody-Medium.eot');
+    src: url('Anybody-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Anybody-Medium.woff2') format('woff2'),
+        url('Anybody-Medium.woff') format('woff'),
+        url('Anybody-Medium.ttf') format('truetype'),
+        url('Anybody-Medium.svg#Anybody-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
